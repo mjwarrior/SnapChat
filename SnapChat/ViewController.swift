@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  SnapChat
-//  Testing
+//
 //  Created by Marc Streeter on 2/1/17.
 //  Copyright © 2017 Developer Warriors. All rights reserved.
 //
